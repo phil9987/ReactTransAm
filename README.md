@@ -14,3 +14,9 @@ The repo was created by Paul Michael with documentation on dzone.com. Each part 
 * https://dzone.com/articles/creating-a-car-game-in-react-part-3-collision
 * https://dzone.com/articles/creating-a-car-game-in-react-part-4-score
 * https://dzone.com/articles/creating-a-car-game-in-react-part-5-levels-and-tim
+
+## Update Node version to nodejs-12
+`sudo npm cache clean -f`
+`sudo npm install -g n`
+`sudo n stable`
+re-open terminal for changes to take effect
