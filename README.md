@@ -2,11 +2,10 @@
 A clone of the Spectrum game TransAm written in ReactJS
 
 ## Build and run it
-0. make sure npm is installed
-1. `cd TransAm`
-2. `npm install`
-3. `npm start`
-4. browser window will open, navigate with arrow keys
+0. make sure npm is installed (i.e. on Linux `sudo apt install npm`)
+1. `npm install`
+2. `npm start`
+3. browser window will open, navigate with arrow keys
 
 ## Original documentation
 The repo was created by Paul Michael with documentation on dzone.com. Each part is represented by a separate branch of the repo. The complete game is on the master branch.
